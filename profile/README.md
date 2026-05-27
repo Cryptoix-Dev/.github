@@ -1,4 +1,4 @@
-[![Cryptoix Secure Payment](https://raw.githubusercontent.com/Cryptoix-Dev/.github/refs/heads/main/.github/head.svg 'Crypto Payment Gateway Cryptoix')](https://cryptoix.io 'Crypto Payment Gateway Cryptoix')
+[![Cryptoix Secure Payment](https://raw.githubusercontent.com/Cryptoix-Dev/.github/refs/heads/main/.github/head1.svg 'Crypto Payment Gateway Cryptoix')](https://cryptoix.io 'Crypto Payment Gateway Cryptoix')
 # Cryptoix.io — Crypto Payment Gateway
 
 **Cryptoix.io** is a secure and developer-focused **cryptocurrency payment gateway** designed to help online businesses, digital platforms, merchants, and service providers accept crypto payments through a reliable payment infrastructure.
